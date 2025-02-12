@@ -1,11 +1,14 @@
 package miPrincipal;
 
 public class Principal {
-    public String getGreeting() {
-        return "Hello World!";
+ private int myVariable;
+public Principal() {
+    this.myVariable = 4;
+}
+    public boolean {
+        return 4;
+
     }
 
-    public static void main(String[] args) {
-        System.out.println(new Principal().getGreeting());
-    }
+
 }
